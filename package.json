@@ -1,0 +1,33 @@
+{
+  "name": "third-assignment-express",
+  "version": "1.0.0",
+  "description": "This is third assingment, in this assingment I will be practicing routes, middlewares, serving static content (.css, .js, .jpeg..etc)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jihadadulrazaqjasim/third-assignment-express-js.git"
+  },
+  "keywords": [
+    "routes",
+    "middlewares",
+    "serving",
+    "static",
+    "content"
+  ],
+  "author": "Jihad Abdulrazaq Jasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihadadulrazaqjasim/third-assignment-express-js/issues"
+  },
+  "homepage": "https://github.com/jihadadulrazaqjasim/third-assignment-express-js#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
